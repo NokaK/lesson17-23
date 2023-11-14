@@ -1,0 +1,1 @@
+randomNumber = Math.ceil(randomNumber);
